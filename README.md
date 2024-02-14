@@ -12,15 +12,21 @@ When a user selects a video to upload, a preview area appears on the right side 
 Features
 Homepage
 This is the default page that system users and website visitors will see when they visit the video-sharing website. All of the website's posted videos are shown on this page.
+
 Authentication
 the pop-up window that appears when a user logs in to access the data and features of the video sharing website.
 the website where new users register for an account.
+
 Video-Upload Page
 the website that lists and manages user-uploaded films and clips.
+
 Video-Player Page
 The pop-up window that appears when users view a new clip or update one they've already uploaded or shared.
+
 Lookup field
-When looking for a specific clip or video, users or visitors type keywords in the input box placed at the top navigation bar of the website.The HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap were used in the development of the video sharing website. The source code can be easily enhanced or modified, and it is fully functioning. To use this straightforward project in real life, simply follow the instructions provided below.
+When looking for a specific clip or video, users or visitors type keywords in the input box placed at the top navigation bar of the website.The HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap were used in the development of the video sharing website. 
+
+The source code can be easily enhanced or modified, and it is fully functioning. To use this straightforward project in real life, simply follow the instructions provided below.
 
 
 Email: user@gmail.com
